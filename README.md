@@ -3,8 +3,6 @@
 🍵 This is a beginner-friendly decentralized application (DApp) for purchasing chai using cryptocurrency while including a personalized message. ☕️
 
 
-Watch my tutorial video to learn how to use the Chai Buying DApp!
-
 ## Getting Started
 
 To get this DApp running, follow the steps below:
